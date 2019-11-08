@@ -7,7 +7,6 @@ The implementing of convolutional neuron network with PyTorch
  - Install an IDE (recommended choose one of the following):
 	- [PyCharm](https://www.jetbrains.com/pycharm/)
 	- [Jupyter notebook](https://jupyter.org/)
- - Other python packages and modules will be instructed further down the course structure
  - Install PyTorch:
 	Follow the instruction [here](https://pytorch.org/get-started/locally/)
 	Recommed to use pytorch nightly version to work smoothly with tensorboard
