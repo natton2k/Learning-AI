@@ -1,0 +1,2 @@
+To install pytorch, use Python 64-bit
+If encount with 2 blank rectangles when using Tensorboard, using pytorch nightly
