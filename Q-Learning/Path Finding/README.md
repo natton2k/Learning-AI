@@ -23,6 +23,7 @@ pip install graphics.py
  
  ## Acknowledgements
  FrozenLake.py was coded by [deeplizard](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
+ 
  1D.py was coded by [Mohit Mayank](https://itnext.io/reinforcement-learning-with-q-tables-5f11168862c8)
  
  
